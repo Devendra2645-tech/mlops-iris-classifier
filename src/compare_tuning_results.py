@@ -1,6 +1,5 @@
 
 import mlflow
-import pandas as pd
 
 
 # Connect to MLflow
