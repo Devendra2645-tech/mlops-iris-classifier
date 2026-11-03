@@ -1,5 +1,7 @@
-pip install scikit-learn
-pip install pandas
-pip install numpy
-pip install joblib
+
+scikit-learn
+pandas
+numpy
+joblib
+
 
